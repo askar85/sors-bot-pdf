@@ -9,11 +9,11 @@
 درلاین 18  api hash   که از تلگرام دریافت کردید وارد کنید 
 
 درصورت بلد نیستید api  دریافت کنید میتوانید از ربات زیر استفاده کنید 
-telegram id = @ApiHashGeneratorBot
+telegram id =``` @ApiHashGeneratorBot```
 
 در لاین 19 توکن ربات تلگرامی خود که از بات فادر دریافت کردید بگذارید 
 
-telegram id = @BotFather
+telegram id =``` @BotFather```
 
 
  سازنده این ربات تلگرامی 
@@ -22,4 +22,4 @@ telegram id = @BotFather
 
 
 در صورت مشکل و نظر یا ایده به  سازنده پیام بدید 
-telegram id = @MRROBOT_DT
+telegram id = ```@MRROBOT_DT```
